@@ -1,6 +1,6 @@
 ![Coverage badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/wiki/liron-navon/puppeteer-jest-github-actions-example/coverage-comment-badge.json)
 
-![Workflow badge](https://github.com/liron-navon/puppeteer-jest-github-actions-example/actions/workflows/tests.yml/badge.svg)
+[![Tests](https://github.com/egyjs/puppeteer-jest-github-actions-example/actions/workflows/tests.yml/badge.svg)](https://github.com/egyjs/puppeteer-jest-github-actions-example/actions/workflows/tests.yml)
 
 # puppeteer-jest-github-actions-example
 
